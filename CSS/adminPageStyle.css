@@ -1,0 +1,48 @@
+body{
+    background: aliceblue;
+    margin: 0;
+}
+#form
+{
+    width: 400px;
+    margin: 20vh auto 0 auto;
+    background-color: #f1c232;
+    border-radius: 5px;
+    padding: 30px;
+}
+h4{
+    text-align: center;
+}
+#form button{
+    background-color: white;
+    border: 2px solid;
+    padding: 10px;
+    margin: 20px 0px;
+    border-radius: 5px;
+    border-color: red;
+    cursor: pointer;
+    font-size: 20px;
+    width: 100%;
+}
+.input-group{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 15px;
+}
+#form input{
+    border-radius: 5px;
+    margin-top: 5px;
+    padding: 10px;
+}
+img{
+    width: 30px;
+    height: 50px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 150px;
+    padding: 1px;
+}
+p{
+    text-align: center;
+    padding: 2px;
+}
